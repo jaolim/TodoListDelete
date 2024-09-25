@@ -67,6 +67,12 @@ table {
   width: 80%;
 }
 
+th {
+  border-bottom: gray;
+  border-bottom-style: solid;
+  border-width: thin;
+}
+
 td {
   text-align: center;
   border-bottom: gray;
